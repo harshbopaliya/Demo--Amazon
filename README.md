@@ -1,2 +1,2 @@
 # StopWatch
-A working StopWatch Website
+A working StopWatch Timer
